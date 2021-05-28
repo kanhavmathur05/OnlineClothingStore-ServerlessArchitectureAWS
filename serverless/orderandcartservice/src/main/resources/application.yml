@@ -1,0 +1,11 @@
+amazon:
+  access:
+    key: 
+    secret-key: 
+  region: us-east-2
+  end-point:
+    url: dynamodb.us-east-2.amazonaws.com
+server:
+  port: 8080
+
+
